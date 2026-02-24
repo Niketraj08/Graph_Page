@@ -1,5 +1,5 @@
 
-
+// JavaScript for Graph Page
 // Hamburger menu toggle
 const hamburger = document.getElementById('hamburger');
 const navLinksMobile = document.getElementById('navLinksMobile');
