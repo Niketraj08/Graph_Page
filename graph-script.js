@@ -1,6 +1,5 @@
 
 
-// Hamburger menu toggle
 const hamburger = document.getElementById('hamburger');
 const navLinksMobile = document.getElementById('navLinksMobile');
 const mobileLinks = navLinksMobile.querySelectorAll('a');
