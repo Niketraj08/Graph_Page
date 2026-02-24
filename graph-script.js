@@ -1,10 +1,4 @@
-/* JavaScript Document
 
-TemplateMo 602 Graph Page
-
-https://templatemo.com/tm-602-graph-page
-
-*/
 
 // Hamburger menu toggle
 const hamburger = document.getElementById('hamburger');
